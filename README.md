@@ -1,2 +1,4 @@
-# inet3101-lab2
-INET 3101 Lab 2
+# INET3101 C Programming Lab 2
+
+## READ ME
+
